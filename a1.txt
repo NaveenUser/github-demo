@@ -1,3 +1,7 @@
 this is text file
+<<<<<<< HEAD
 Line1
 Line2
+=======
+Line1 in a1.txt file from branch dev
+>>>>>>> dev
